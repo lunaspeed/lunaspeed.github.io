@@ -1,0 +1,165 @@
+{
+  "basics": {
+    "name": "楊振曜 (Steven)",
+    "label": "Senior Programmer",
+    "picture": "",
+    "email": "kenshin520@gmail.com",
+    "phone": "",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "Steven Yang",
+        "url": "https://twitter.com/kenshin520"
+      },
+      {
+        "network": "Google+",
+        "username": "Steven Yang",
+        "url": "https://plus.google.com/u/0/117922654484637755209"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "SoftBI 商智資訊有限公司",
+      "position": "Programmer",
+      "website": "http://www.softbi.com",
+      "startDate": "2006-02-01",
+      "endDate": "2011-07-31",
+      "summary": "Maintaining and developing new features for Wealth Management Systems for Banks.",
+      "highlights": [
+        "2006-09 ~ 2008-11 Maintaining ABN/RBS Wealth Management System and developing new functions. (Servlet, Webwork)",
+        "2005-03 ~ 2006-05 Fund System. From parsing raw data from datasource to front-end presentation. （ActionScript, Webwork)",
+        "2006-06 ~ 2007-01 CMB (招商銀行) Wealth Management System (Servlet, Spring)",
+        "2008-12 ~ 2009-12 Refactor Wealth Management System core to core product. Redesign technical framework to use Struts 2 and Spring. Also developed companies' core utility library.",
+        "2009-08 ～ 2010-07 BEA Wealth Management System"
+      ]
+    },
+    {
+      "company": "Netgents (英騰資訊)",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2010-08-01",
+      "endDate": "2013-12-31",
+      "summary": "This is a small 2 people studio. I worked on various different projects. From Android to Scala web application.",
+      "highlights": [
+        "Messenger - Android application that alarms user on specific text messages",
+        "KKLA online testing - Scala web application developed using Lift Framework with MySQL back-end.",
+        "Caves Drama Wonderland - Java (Struts 2/ Spring) web application which allows user to create pages of short stories for children and have ability to export to epub format. Also have it's own search engine (Solr)",
+        "Cathay Bank (國泰世華銀行) Internet Banking - Pre-project Java Script framework evaluation ",
+        "SKB Enterprise Banking (新光銀行企業金融) - system maintenance "
+      ]
+    },
+    {
+      "company": "Mycom International",
+      "position": "Software Engineer",
+      "website": " http://www.mycom-int.com",
+      "startDate": "2014-01-01",
+      "endDate": "2014-01-31",
+      "summary": "Plugin developer using Java.",
+      "highlights": []
+    },
+    {
+      "company": "SoftBI 商智資訊有限公司",
+      "position": "System Architect",
+      "website": "http://www.softbi.com",
+      "startDate": "2014-01-31",
+      "endDate": "",
+      "summary": "Working on improving framework and core system. Also responsible for company internal training. Co-work with each project for most suitable framework and problem solving.",
+      "highlights": [
+        "MEGA Wealth Management System/OLAP - setup whole OLAP system using Analyzer (http://web.analyzer.com.tw/) with MS SQLServer. ",
+        "Rework fund data batch process to use Spring Batch."
+      ]
+    },
+    {
+      "company": "Localgo (樂客旅行社)",
+      "position": "Software Engineer",
+      "website": "http://www.localgo.com.tw/",
+      "startDate": "2016-05-01",
+      "endDate": "",
+      "summary": "Maintaining and developing website application using Struts 2, Spring and MySQL.",
+      "highlights": [
+        "https://www.localgo.com.tw/C/ch/home",
+        "https://www.heytalent.net/C/ch/localgo/expert/home"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of British Columbia",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2000-09-01",
+      "endDate": "2005-08-30",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Java Web Application Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Java",
+        "Struts 2",
+        "Spring",
+        "Java Script",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "Scala Programming",
+      "level": "Mediocre",
+      "keywords": [
+        "Lift",
+        "Squeryl"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Programming Related",
+      "keywords": [
+        "Akka",
+        "Kafka",
+        "Docker",
+        "Mesos",
+        "Functional Programming",
+        "Gradle",
+        "Solr",
+        "Spark"
+      ]
+    },
+    {
+      "name": "Hobby",
+      "keywords": [
+        "Anime",
+        "Movie"
+      ]
+    }
+  ],
+  "references": []
+}
