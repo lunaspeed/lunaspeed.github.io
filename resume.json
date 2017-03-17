@@ -140,10 +140,23 @@
     },
     {
       "name": "Scala Programming",
-      "level": "Mediocre",
+      "level": "Good",
       "keywords": [
+        "Akka",
+        "Play Framwork",
         "Lift",
         "Squeryl"
+      ]
+    },
+    {
+      "name": "Persisent Level",
+      "level": "Good",
+      "keywords" : [
+        "MySQL",
+        "MS SQL Server",
+        "Oracle Database",
+        "Redis",
+        "Cassandra"
       ]
     }
   ],
@@ -167,6 +180,7 @@
         "Mesos",
         "Functional Programming",
         "Gradle",
+        "SBT",
         "Solr",
         "Spark"
       ]
