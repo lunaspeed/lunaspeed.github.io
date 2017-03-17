@@ -35,7 +35,7 @@
   "work": [
     {
       "company": "SoftBI 商智資訊有限公司",
-      "position": "Programmer",
+      "position": "Software Programmer",
       "website": "http://www.softbi.com",
       "startDate": "2006-02-01",
       "endDate": "2011-07-31",
@@ -76,8 +76,8 @@
       "company": "SoftBI 商智資訊有限公司",
       "position": "System Architect",
       "website": "http://www.softbi.com",
-      "startDate": "2014-01-31",
-      "endDate": "",
+      "startDate": "2014-02-01",
+      "endDate": "2016-11-30",
       "summary": "Working on improving framework and core system. Also responsible for company internal training. Co-work with each project for most suitable framework and problem solving.",
       "highlights": [
         "MEGA Wealth Management System/OLAP - setup whole OLAP system using Analyzer (http://web.analyzer.com.tw/) with MS SQLServer. ",
@@ -89,11 +89,24 @@
       "position": "Software Engineer",
       "website": "http://www.localgo.com.tw/",
       "startDate": "2016-05-01",
-      "endDate": "",
+      "endDate": "2016-11-30",
       "summary": "Maintaining and developing website application using Struts 2, Spring and MySQL.",
       "highlights": [
         "https://www.localgo.com.tw/C/ch/home",
         "https://www.heytalent.net/C/ch/localgo/expert/home"
+      ]
+    },
+    {
+      "company": "Migme",
+      "position": "Backend Programmer",
+      "website": "http://company.mig.me/",
+      "startDate": "2016-12-18",
+      "endDate": "",
+      "summary": "Maintaining back-end legacy Java system and developing new service using Scala and SMACK stack.",
+      "highlights": [
+        "- Refactoring and enhancement the microblogging service with Scala, Akka, Play as a highly concurrent, distributed, and resilient message-driven cluster system.",
+        "- Redesign the dynamic news feed graph algorithm for microblogging service with personalization and recommendation engine support. And also enhancement microblogging 3 times faster.",
+        "- Revamping the media service as a distributed platform using Scala, Play framework, which handles millions of daily user uploads with AWS S3. And also deal with AWS Lambda for image processing."
       ]
     }
   ],
