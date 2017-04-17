@@ -34,19 +34,60 @@
   },
   "work": [
     {
-      "company": "SoftBI 商智資訊有限公司",
-      "position": "Software Programmer",
-      "website": "http://www.softbi.com",
-      "startDate": "2006-02-01",
-      "endDate": "2011-07-31",
-      "summary": "Maintaining and developing new features for Wealth Management Systems for Banks.",
+      "company": "Migme",
+      "position": "Backend Programmer",
+      "website": "http://company.mig.me/",
+      "startDate": "2016-12-18",
+      "endDate": "",
+      "summary": "Maintaining back-end legacy Java system and developing new service using Scala and SMACK stack.",
       "highlights": [
-        "2006-09 ~ 2008-11 Maintaining ABN/RBS Wealth Management System and developing new functions. (Servlet, Webwork)",
-        "2005-03 ~ 2006-05 Fund System. From parsing raw data from datasource to front-end presentation. （ActionScript, Webwork)",
-        "2006-06 ~ 2007-01 CMB (招商銀行) Wealth Management System (Servlet, Spring)",
-        "2008-12 ~ 2009-12 Refactor Wealth Management System core to core product. Redesign technical framework to use Struts 2 and Spring. Also developed companies' core utility library.",
-        "2009-08 ~ 2010-07 BEA Wealth Management System"
+        "- Refactoring and enhancement the microblogging service with Scala, Akka, Play as a highly concurrent, distributed, and resilient message-driven cluster system.",
+        "- Redesign the dynamic news feed graph algorithm for microblogging service with personalization and recommendation engine support. And also enhancement microblogging 3 times faster.",
+        "- Revamping the media service as a distributed platform using Scala, Play framework, which handles millions of daily user uploads with AWS S3. And also deal with AWS Lambda for image processing."
       ]
+    },
+    {
+      "company": "Localgo (樂客旅行社) - Part Time",
+      "position": "Software Engineer",
+      "website": "http://www.localgo.com.tw/",
+      "startDate": "2016-05-01",
+      "endDate": "2016-11-30",
+      "summary": "Maintaining and developing website application using Struts 2, Spring and MySQL.",
+      "highlights": [
+        "https://www.localgo.com.tw/C/ch/home",
+        "https://www.heytalent.net/C/ch/localgo/expert/home"
+      ]
+    },
+    {
+      "company": "SoftBI 商智資訊有限公司 - Part Time",
+      "position": "System Architect & Consultant",
+      "website": "http://www.softbi.com",
+      "startDate": "2016-05-01",
+      "endDate": "2016-11-30",
+      "summary": "Consulting for majority of technical issues and all framework related issues. Responsible for company internal training.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "SoftBI 商智資訊有限公司",
+      "position": "Senior Software Developer & System Architect",
+      "website": "http://www.softbi.com",
+      "startDate": "2014-02-01",
+      "endDate": "2016-04-30",
+      "summary": "Working on improving framework and core system. Also responsible for company internal training. Co-work with each project for most suitable framework and problem solving.",
+      "highlights": [
+        "MEGA Wealth Management System/OLAP - setup whole OLAP system using Analyzer (http://web.analyzer.com.tw/) with MS SQLServer. ",
+        "Rework fund data batch process to use Spring Batch."
+      ]
+    },
+    {
+      "company": "Mycom International",
+      "position": "Software Engineer",
+      "website": " http://www.mycom-int.com",
+      "startDate": "2014-01-01",
+      "endDate": "2014-01-31",
+      "summary": "Plugin developer using Java.",
+      "highlights": []
     },
     {
       "company": "Netgents (英騰資訊)",
@@ -64,49 +105,18 @@
       ]
     },
     {
-      "company": "Mycom International",
-      "position": "Software Engineer",
-      "website": " http://www.mycom-int.com",
-      "startDate": "2014-01-01",
-      "endDate": "2014-01-31",
-      "summary": "Plugin developer using Java.",
-      "highlights": []
-    },
-    {
       "company": "SoftBI 商智資訊有限公司",
-      "position": "System Architect",
+      "position": "Software Programmer",
       "website": "http://www.softbi.com",
-      "startDate": "2014-02-01",
-      "endDate": "2016-11-30",
-      "summary": "Working on improving framework and core system. Also responsible for company internal training. Co-work with each project for most suitable framework and problem solving.",
+      "startDate": "2006-02-01",
+      "endDate": "2011-07-31",
+      "summary": "Maintaining and developing new features for Wealth Management Systems for Banks.",
       "highlights": [
-        "MEGA Wealth Management System/OLAP - setup whole OLAP system using Analyzer (http://web.analyzer.com.tw/) with MS SQLServer. ",
-        "Rework fund data batch process to use Spring Batch."
-      ]
-    },
-    {
-      "company": "Localgo (樂客旅行社)",
-      "position": "Software Engineer",
-      "website": "http://www.localgo.com.tw/",
-      "startDate": "2016-05-01",
-      "endDate": "2016-11-30",
-      "summary": "Maintaining and developing website application using Struts 2, Spring and MySQL.",
-      "highlights": [
-        "https://www.localgo.com.tw/C/ch/home",
-        "https://www.heytalent.net/C/ch/localgo/expert/home"
-      ]
-    },
-    {
-      "company": "Migme",
-      "position": "Backend Programmer",
-      "website": "http://company.mig.me/",
-      "startDate": "2016-12-18",
-      "endDate": "",
-      "summary": "Maintaining back-end legacy Java system and developing new service using Scala and SMACK stack.",
-      "highlights": [
-        "- Refactoring and enhancement the microblogging service with Scala, Akka, Play as a highly concurrent, distributed, and resilient message-driven cluster system.",
-        "- Redesign the dynamic news feed graph algorithm for microblogging service with personalization and recommendation engine support. And also enhancement microblogging 3 times faster.",
-        "- Revamping the media service as a distributed platform using Scala, Play framework, which handles millions of daily user uploads with AWS S3. And also deal with AWS Lambda for image processing."
+        "2006-09 ~ 2008-11 Maintaining ABN/RBS Wealth Management System and developing new functions. (Servlet, Webwork)",
+        "2005-03 ~ 2006-05 Fund System. From parsing raw data from datasource to front-end presentation. （ActionScript, Webwork)",
+        "2006-06 ~ 2007-01 CMB (招商銀行) Wealth Management System (Servlet, Spring)",
+        "2008-12 ~ 2009-12 Refactor Wealth Management System core to core product. Redesign technical framework to use Struts 2 and Spring. Also developed companies' core utility library.",
+        "2009-08 ~ 2010-07 BEA Wealth Management System"
       ]
     }
   ],
